@@ -1,0 +1,47 @@
+2026-05-31 12:41:22,781 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-05-31 12:41:22,804 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-05-31 12:41:22,824 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-05-31 12:41:22,824 - TribesBot.DataManager - INFO - Source: Unknown
+2026-05-31 12:41:22,824 - TribesBot.DataManager - INFO - Building search index...
+2026-05-31 12:41:22,834 - TribesBot.DataManager - INFO - Search index built successfully
+2026-05-31 12:41:26,945 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-05-31 12:41:26,946 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-05-31 12:41:26,947 - TribesBot - INFO - Bot initialization complete
+2026-05-31 12:41:50,035 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-05-31 12:41:50,053 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-05-31 12:41:50,070 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-05-31 12:41:50,070 - TribesBot.DataManager - INFO - Source: Unknown
+2026-05-31 12:41:50,071 - TribesBot.DataManager - INFO - Building search index...
+2026-05-31 12:41:50,075 - TribesBot.DataManager - INFO - Search index built successfully
+2026-05-31 12:41:54,171 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-05-31 12:41:54,172 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-05-31 12:41:54,173 - TribesBot - INFO - Bot initialization complete
+2026-05-31 12:43:23,316 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-05-31 12:43:23,358 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-05-31 12:43:23,391 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-05-31 12:43:23,391 - TribesBot.DataManager - INFO - Source: Unknown
+2026-05-31 12:43:23,391 - TribesBot.DataManager - INFO - Building search index...
+2026-05-31 12:43:23,400 - TribesBot.DataManager - INFO - Search index built successfully
+2026-05-31 12:43:27,487 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-05-31 12:43:27,488 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-05-31 12:43:27,488 - TribesBot - INFO - Bot initialization complete
+2026-06-01 11:22:38,409 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-01 11:22:38,433 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-01 11:22:38,453 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-01 11:22:38,454 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-01 11:22:38,454 - TribesBot.DataManager - INFO - Building search index...
+2026-06-01 11:22:38,463 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-01 11:22:38,505 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2026-06-01 11:22:42,564 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-01 11:22:42,577 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-01 11:22:42,579 - TribesBot - INFO - Bot initialization complete
+2026-06-01 11:22:54,014 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-01 11:22:54,034 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-01 11:22:54,049 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-01 11:22:54,049 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-01 11:22:54,050 - TribesBot.DataManager - INFO - Building search index...
+2026-06-01 11:22:54,060 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-01 11:22:54,063 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2026-06-01 11:22:58,090 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-01 11:22:58,109 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-01 11:22:58,158 - TribesBot - INFO - Bot initialization complete
