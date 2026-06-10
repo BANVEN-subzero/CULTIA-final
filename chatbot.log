@@ -45,3 +45,372 @@
 2026-06-01 11:22:58,090 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
 2026-06-01 11:22:58,109 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
 2026-06-01 11:22:58,158 - TribesBot - INFO - Bot initialization complete
+2026-06-10 01:23:03,744 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 01:23:03,781 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 01:23:03,799 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 01:23:03,800 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 01:23:03,800 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 01:23:03,813 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 01:23:07,905 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 01:23:07,906 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 01:23:07,911 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 01:23:08,121 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 01:23:08,122 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 01:23:08,735 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 01:23:08,735 - TribesBot - INFO - Bot initialization complete
+2026-06-10 01:23:10,486 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.94.145.212:5000
+2026-06-10 01:23:10,486 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-10 01:23:10,712 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 01:23:22,292 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 01:23:22,311 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 01:23:22,330 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 01:23:22,330 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 01:23:22,330 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 01:23:22,335 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 01:23:26,439 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 01:23:26,439 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 01:23:26,445 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 01:23:26,713 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 01:23:26,714 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 01:23:27,495 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 01:23:27,496 - TribesBot - INFO - Bot initialization complete
+2026-06-10 01:23:28,400 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 01:23:28,421 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 01:59:43,288 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\test_local_endpoint.py', reloading
+2026-06-10 01:59:44,154 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 01:59:55,513 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 01:59:55,536 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 01:59:55,551 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 01:59:55,551 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 01:59:55,551 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 01:59:55,556 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 01:59:59,671 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 01:59:59,671 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 01:59:59,676 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 01:59:59,923 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 01:59:59,923 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 02:00:00,756 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 02:00:00,756 - TribesBot - INFO - Bot initialization complete
+2026-06-10 02:00:01,589 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 02:00:01,658 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 02:37:28,662 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\test_run.py', reloading
+2026-06-10 02:37:31,157 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 02:38:01,053 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 02:38:01,075 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 02:38:01,110 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 02:38:01,110 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 02:38:01,110 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 02:38:01,122 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 02:38:05,210 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 02:38:05,210 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 02:38:05,216 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 02:38:05,527 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 02:38:05,528 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 02:38:07,149 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 02:38:07,151 - TribesBot - INFO - Bot initialization complete
+2026-06-10 02:38:08,640 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 02:38:08,661 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:14:05,127 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:14:05,157 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:14:05,174 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:14:05,174 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:14:05,174 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:14:05,179 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:14:09,300 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:14:09,300 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:14:09,305 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:14:09,580 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:14:09,583 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:14:10,755 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:14:10,755 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:14:12,655 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.94.145.212:5000
+2026-06-10 03:14:12,655 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-10 03:14:12,737 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:14:30,594 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:14:30,612 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:14:30,648 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:14:30,649 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:14:30,649 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:14:30,655 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:14:34,730 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:14:34,731 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:14:34,736 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:14:35,052 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:14:35,053 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:14:36,000 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:14:36,001 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:14:36,693 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:14:36,722 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:14:57,026 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:14:57,057 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:14:57,146 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:14:57,146 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:14:57,146 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:14:57,156 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:15:01,217 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:15:01,217 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:15:01,222 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:15:02,672 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:15:02,674 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:15:04,139 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:15:04,140 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:15:06,683 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.94.145.212:5000
+2026-06-10 03:15:06,683 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-10 03:15:06,809 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:15:29,792 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:15:29,819 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:15:29,850 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:15:29,850 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:15:29,850 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:15:29,858 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:15:33,923 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:15:33,923 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:15:33,929 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:15:34,171 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:15:34,172 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:15:34,858 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:15:34,858 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:15:35,438 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:15:35,457 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:20:04,890 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\test_local_endpoint.py', reloading
+2026-06-10 03:20:04,890 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\cultureAI\\cameroon_chatbot.py', reloading
+2026-06-10 03:20:04,891 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\list_models.py', reloading
+2026-06-10 03:20:04,894 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\test_local_endpoint.py', reloading
+2026-06-10 03:20:04,997 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\test_local_endpoint.py', reloading
+2026-06-10 03:20:05,086 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\cultureAI\\cameroon_chatbot.py', reloading
+2026-06-10 03:20:05,087 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\list_models.py', reloading
+2026-06-10 03:20:08,005 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:20:12,806 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:20:12,867 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:20:32,876 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:20:32,899 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:20:32,934 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:20:32,935 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:20:32,935 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:20:32,945 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:20:37,057 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:20:37,058 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:20:37,063 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:20:37,421 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:20:37,421 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:20:39,173 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:20:39,173 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:20:41,261 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:20:41,281 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:20:51,694 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:20:51,777 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:20:51,798 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:20:51,799 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:20:51,799 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:20:51,804 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:20:55,919 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:20:55,919 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:20:55,925 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:20:56,113 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:20:56,131 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:20:56,182 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:20:56,184 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:20:56,184 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:20:56,213 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:20:57,422 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:20:57,423 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:20:59,936 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:20:59,936 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:21:00,381 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:21:00,382 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:21:00,388 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:21:01,403 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:21:01,424 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:21:02,668 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:21:02,668 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:21:05,642 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:21:05,643 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:21:06,955 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:21:07,031 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:33:13,880 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:33:13,929 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:33:13,944 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:33:13,945 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:33:13,945 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:33:13,975 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:33:16,943 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\api.py', reloading
+2026-06-10 03:33:16,944 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\CULTIA\\Robix\\Robix\\backend\\api.py', reloading
+2026-06-10 03:33:18,085 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:33:18,085 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:33:18,092 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:33:18,334 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:33:18,335 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:33:19,007 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:33:19,007 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:33:20,609 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.94.145.212:5000
+2026-06-10 03:33:20,610 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-10 03:33:20,657 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:33:22,683 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:33:22,771 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:33:48,447 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:33:48,466 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:33:48,490 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:33:48,490 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:33:48,491 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:33:48,504 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:33:50,413 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:33:50,453 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:33:50,495 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:33:50,496 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:33:50,496 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:33:50,502 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:33:51,542 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:33:51,572 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:33:51,648 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:33:51,648 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:33:51,648 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:33:51,656 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:33:52,559 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:33:52,559 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:33:52,566 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:33:53,612 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:33:53,613 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:33:54,576 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:33:54,576 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:33:54,582 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:33:55,215 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:33:55,215 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:33:55,779 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:33:55,779 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:33:55,785 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:33:56,443 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:33:56,462 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:33:56,584 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:33:56,584 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:33:56,698 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:33:56,698 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:33:57,674 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:33:57,674 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:33:58,050 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:33:58,050 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:33:58,779 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:33:58,821 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:33:59,549 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:33:59,567 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:37:57,674 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\test_run.py', reloading
+2026-06-10 03:37:57,674 - werkzeug - INFO -  * Detected change in 'C:\\Users\\BANVEN\\Desktop\\CULTIA main\\test_run.py', reloading
+2026-06-10 03:37:59,295 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:38:04,025 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:38:04,086 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-06-10 03:38:15,998 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:38:16,015 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:38:16,078 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:38:16,079 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:38:16,079 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:38:16,085 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:38:20,242 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:38:20,243 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:38:20,248 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:38:20,996 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:38:20,997 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:38:22,572 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:38:22,572 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:38:24,079 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:38:24,098 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:38:32,006 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:38:32,060 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:38:32,100 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:38:32,100 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:38:32,101 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:38:32,106 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:38:34,514 - TribesBot - INFO - Initializing Advanced Tribes Bot...
+2026-06-10 03:38:34,535 - TribesBot - INFO - Loaded 69 tribes from data file
+2026-06-10 03:38:34,552 - TribesBot.DataManager - INFO - Loaded data for 69 tribes
+2026-06-10 03:38:34,552 - TribesBot.DataManager - INFO - Source: Unknown
+2026-06-10 03:38:34,552 - TribesBot.DataManager - INFO - Building search index...
+2026-06-10 03:38:34,557 - TribesBot.DataManager - INFO - Search index built successfully
+2026-06-10 03:38:36,259 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:38:36,259 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:38:36,266 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:38:36,905 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:38:36,906 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:38:37,815 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:38:37,816 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:38:38,719 - TribesBot.Ollama - WARNING - Ollama check failed: [WinError 2] The system cannot find the file specified
+2026-06-10 03:38:38,719 - TribesBot.Ollama - WARNING - Ollama not available, responses will be based on structured data only
+2026-06-10 03:38:38,725 - TribesBot.Speech - WARNING - Microphone initialization failed: Could not find PyAudio; check installation
+2026-06-10 03:38:39,176 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:38:39,195 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:38:39,676 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\BANVEN\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-10 03:38:39,677 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\BANVEN\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2026-06-10 03:38:41,282 - TribesBot.Speech - INFO - TTS initialized successfully
+2026-06-10 03:38:41,283 - TribesBot - INFO - Bot initialization complete
+2026-06-10 03:38:42,964 - werkzeug - WARNING -  * Debugger is active!
+2026-06-10 03:38:42,985 - werkzeug - INFO -  * Debugger PIN: 129-072-845
+2026-06-10 03:44:04,832 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:04] "[36mGET /bot/interactiveLanguageLearning.html HTTP/1.1[0m" 304 -
+2026-06-10 03:44:04,983 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:04] "[36mGET /bot/css/educator.css HTTP/1.1[0m" 304 -
+2026-06-10 03:44:04,984 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:04] "[36mGET /bot/css/assistant.css HTTP/1.1[0m" 304 -
+2026-06-10 03:44:05,402 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:05] "[36mGET /bot/js/gamification.js HTTP/1.1[0m" 304 -
+2026-06-10 03:44:05,510 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:05] "[36mGET /bot/js/settingsManager.js HTTP/1.1[0m" 304 -
+2026-06-10 03:44:05,568 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:05] "[36mGET /bot/js/languageData.js HTTP/1.1[0m" 304 -
+2026-06-10 03:44:05,659 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:05] "[36mGET /bot/js/languageDataService.js HTTP/1.1[0m" 304 -
+2026-06-10 03:44:05,694 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:05] "GET /bot/js/languageLearning.js HTTP/1.1" 200 -
+2026-06-10 03:44:06,173 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:06] "[36mGET /bot/includes/sidebar.html HTTP/1.1[0m" 304 -
+2026-06-10 03:44:06,211 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:06] "[36mGET /bot/includes/header.html HTTP/1.1[0m" 304 -
+2026-06-10 03:44:06,370 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:06] "[36mGET /img/top.png HTTP/1.1[0m" 304 -
+2026-06-10 03:44:06,501 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:06] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:44:06,988 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:06] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:44:07,654 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:07] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:44:08,286 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:44:08] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:57:43,622 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:43] "[36mGET /bot/interactiveLanguageLearning.html HTTP/1.1[0m" 304 -
+2026-06-10 03:57:43,671 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:43] "[36mGET /bot/css/educator.css HTTP/1.1[0m" 304 -
+2026-06-10 03:57:43,886 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:43] "[36mGET /bot/css/assistant.css HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,004 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /bot/js/gamification.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,037 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /bot/js/settingsManager.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,083 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /bot/js/languageData.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,132 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /bot/js/languageDataService.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,188 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "GET /bot/js/languageLearning.js HTTP/1.1" 200 -
+2026-06-10 03:57:44,641 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /bot/includes/header.html HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,673 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /bot/includes/sidebar.html HTTP/1.1[0m" 304 -
+2026-06-10 03:57:44,763 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:44] "[36mGET /img/top.png HTTP/1.1[0m" 304 -
+2026-06-10 03:57:45,072 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:45] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:57:45,392 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:45] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:57:45,800 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:45] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:57:46,545 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:46] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:57:48,253 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/interactiveLanguageLearning.html HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,550 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/css/educator.css HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,642 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/css/assistant.css HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,687 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/js/gamification.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,703 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/js/settingsManager.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,762 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/js/languageData.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,813 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/js/languageDataService.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:48,904 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:48] "[36mGET /bot/js/languageLearning.js HTTP/1.1[0m" 304 -
+2026-06-10 03:57:49,473 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:49] "[36mGET /bot/includes/sidebar.html HTTP/1.1[0m" 304 -
+2026-06-10 03:57:49,500 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:49] "[36mGET /bot/includes/header.html HTTP/1.1[0m" 304 -
+2026-06-10 03:57:49,581 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:49] "[36mGET /img/top.png HTTP/1.1[0m" 304 -
+2026-06-10 03:57:49,665 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:49] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:57:49,983 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:49] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:57:50,402 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:50] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:57:51,296 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:57:51] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:59:33,717 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:33] "[36mGET /bot/interactiveLanguageLearning.html HTTP/1.1[0m" 304 -
+2026-06-10 03:59:33,834 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:33] "[36mGET /bot/css/educator.css HTTP/1.1[0m" 304 -
+2026-06-10 03:59:33,989 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:33] "[36mGET /bot/css/assistant.css HTTP/1.1[0m" 304 -
+2026-06-10 03:59:34,246 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:34] "GET /bot/js/languageLearning.js HTTP/1.1" 200 -
+2026-06-10 03:59:34,296 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:34] "[36mGET /bot/js/languageDataService.js HTTP/1.1[0m" 304 -
+2026-06-10 03:59:34,381 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:34] "[36mGET /bot/js/languageData.js HTTP/1.1[0m" 304 -
+2026-06-10 03:59:34,421 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:34] "[36mGET /bot/js/settingsManager.js HTTP/1.1[0m" 304 -
+2026-06-10 03:59:34,467 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:34] "[36mGET /bot/js/gamification.js HTTP/1.1[0m" 304 -
+2026-06-10 03:59:35,127 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:35] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:59:35,193 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:35] "[36mGET /bot/includes/sidebar.html HTTP/1.1[0m" 304 -
+2026-06-10 03:59:35,284 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:35] "[36mGET /bot/includes/header.html HTTP/1.1[0m" 304 -
+2026-06-10 03:59:35,399 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:35] "[36mGET /img/top.png HTTP/1.1[0m" 304 -
+2026-06-10 03:59:35,988 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:35] "GET /api/achievements HTTP/1.1" 200 -
+2026-06-10 03:59:36,307 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:36] "GET /api/progress HTTP/1.1" 200 -
+2026-06-10 03:59:37,193 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2026 03:59:37] "GET /api/progress HTTP/1.1" 200 -
